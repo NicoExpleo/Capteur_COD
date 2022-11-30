@@ -1,2 +1,2 @@
 Function OK
-Buy me a beer
+Wait 1000ms
