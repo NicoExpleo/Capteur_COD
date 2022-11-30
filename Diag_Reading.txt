@@ -1,1 +1,2 @@
 Function OK
+Wait 1000ms
